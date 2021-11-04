@@ -1,0 +1,26 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "学习单元测试",
+  "main": "src/math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melodyfang/jest.git"
+  },
+  "keywords": [
+    "jest",
+    "js"
+  ],
+  "author": "melody",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melodyfang/jest/issues"
+  },
+  "homepage": "https://github.com/melodyfang/jest#readme",
+  "dependencies": {
+    "jest": "24.8.0"
+  }
+}
