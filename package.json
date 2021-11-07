@@ -2,7 +2,7 @@
   "name": "jest",
   "version": "1.0.0",
   "description": "学习单元测试",
-  "main": "src/math.js",
+  "main": "math.js",
   "scripts": {
     "test": "jest"
   },
@@ -22,5 +22,9 @@
   "homepage": "https://github.com/melodyfang/jest#readme",
   "dependencies": {
     "jest": "24.8.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.5",
+    "@babel/preset-env": "7.4.5"
   }
 }
